@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboards>
+    <Keyboard
+        defaultDictionaryLocale="vi"
+        description="Created by huong"
+        iconResId="@drawable/ic_launcher_background"
+        id="8e74a35d-e40c-4bb6-b48c-0ae7253355de"
+        index="1"
+        layoutResId="@xml/russian_qwerty"
+        nameResId="@string/app_name"
+        physicalKeyboardMappingResId="@xml/ru_physical" />
+</Keyboards>
