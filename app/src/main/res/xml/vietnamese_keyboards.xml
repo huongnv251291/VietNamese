@@ -4,9 +4,9 @@
         defaultDictionaryLocale="vi"
         description="Created by huong"
         iconResId="@drawable/ic_launcher_background"
-        id="8e74a35d-e40c-4bb6-b48c-0ae7253355de"
+        id="0b2cfdb0-6a39-4c85-8074-4e4c503b74f6"
         index="1"
-        layoutResId="@xml/russian_qwerty"
+        layoutResId="@xml/vietnam_qwerty"
         nameResId="@string/app_name"
-        physicalKeyboardMappingResId="@xml/ru_physical" />
+        physicalKeyboardMappingResId="@xml/vietnam_physical" />
 </Keyboards>
