@@ -21,21 +21,21 @@
     <Row>
         <Key android:codes="113" android:popupCharacters="1" android:keyEdgeFlags="left"/>
         <Key android:codes="119" android:popupCharacters="2"/>
-        <Key android:codes="101" android:popupKeyboard="@xml/popup_qwerty_e"/>
+        <Key android:codes="101,234" android:popupKeyboard="@xml/popup_qwerty_e"/>
         <Key android:codes="114" android:popupCharacters="4"/>
         <Key android:codes="116" android:popupCharacters="5"/>
         <Key android:codes="121" android:popupKeyboard="@xml/popup_qwerty_y"/>
         <Key android:codes="117" android:popupKeyboard="@xml/popup_qwerty_u"/>
         <Key android:codes="105" android:popupCharacters="í8ìịỉĩ"/>
-        <Key android:codes="111" android:popupCharacters="9oóòỏõọôốồổỗộơớờởỡợ"/>
+        <Key android:codes="111,244" android:popupCharacters="9oóòỏõọôốồổỗộơớờởỡợ" />
         <Key android:codes="112" android:popupCharacters="0" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
-        <Key android:horizontalGap="5%p" android:codes="97" android:keyLabel="a" android:popupCharacters="àáảãạăằắẳẵặâầấẩẫậ"
+        <Key android:horizontalGap="5%p" android:codes="97,226" android:keyLabel="a" android:popupCharacters="àáảãạăằắẳẵặâầấẩẫậ"
              android:keyEdgeFlags="left"/>
         <Key android:codes="115" android:keyLabel="s" android:popupCharacters="" />
-        <Key android:codes="100" android:keyLabel="d"  android:popupCharacters="đ"/>
+        <Key android:codes="100,273" android:keyLabel="d"  android:popupCharacters="đ"/>
         <Key android:codes="102" android:keyLabel="f" android:popupCharacters="" />
         <Key android:codes="103" android:keyLabel="g" android:popupCharacters="" />
         <Key android:codes="104" android:keyLabel="h" android:popupCharacters="" />
