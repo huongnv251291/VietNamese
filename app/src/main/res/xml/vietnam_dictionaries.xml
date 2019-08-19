@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+    <Dictionary
+        autoTextResourceId="@xml/vietnam_autotext"
+        description="Dictionary "
+        dictionaryResourceId="@array/vn_dict_array"
+        id="93ac41a0-5622-4a66-818a-585ef4761869"
+        locale="vi"
+        nameResId="@string/app_name"
+        type="binary_resource" />
+</Dictionaries>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Charters>
+    <Charter
+        charterKey="b"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="d"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="f"
+        numCanShowInText="0" />
+    <Charter
+        charterKey="j"
+        numCanShowInText="0" />
+    <Charter
+        charterKey="k"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="l"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="q"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="r"
+        numCanShowInText="2" />
+    <Charter
+        charterKey="s"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="v"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="w"
+        numCanShowInText="0" />
+    <Charter
+        charterKey="x"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="z"
+        numCanShowInText="0" />
+</Charters>

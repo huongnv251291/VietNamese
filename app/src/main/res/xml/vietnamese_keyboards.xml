@@ -8,5 +8,7 @@
         index="1"
         layoutResId="@xml/vietnam_qwerty"
         nameResId="@string/app_name"
-        physicalKeyboardMappingResId="@xml/vietnam_physical" />
+        nonCharterOfLangResId="@xml/vietnamese_non_charter"
+        physicalKeyboardMappingResId="@xml/vietnam_physical"
+        translationMappingResId="@xml/vietnam_translation" />
 </Keyboards>

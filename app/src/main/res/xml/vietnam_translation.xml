@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TranslationMapping translationKey="101,111,97,100,119,114,115,102,106,120">
+    <Sequence>
+        <!--e-->
+        <SequenceMappings secoundKey="101">
+            <SequenceMapping
+                charSource="e"
+                index="1"
+                targetChar="ê" />
+        </SequenceMappings>
+        <!--o-->
+        <SequenceMappings secoundKey="111">
+            <SequenceMapping
+                charSource="o"
+                index="1"
+                targetChar="ô" />
+            <SequenceMapping
+                charSource="ơ"
+                index="2"
+                targetChar="ô" />
+        </SequenceMappings>
+        <!--a-->
+        <SequenceMappings secoundKey="97">
+            <SequenceMapping
+                charSource="a"
+                index="1"
+                targetChar="â" />
+            <SequenceMapping
+                charSource="ă"
+                index="2"
+                targetChar="â" />
+        </SequenceMappings>
+        <!--d-->
+        <SequenceMappings secoundKey="100">
+            <SequenceMapping
+                charSource="d"
+                index="1"
+                targetChar="đ" />
+        </SequenceMappings>
+        <!--w-->
+        <SequenceMappings secoundKey="119">
+            <SequenceMapping
+                charSource="117,111"
+                index="1"
+                notMap="o"
+                targetChar="ươ" />
+            <SequenceMapping
+                charSource="117,117"
+                index="2"
+                targetChar="ưu" />
+            <SequenceMapping
+                charSource="97"
+                index="3"
+                targetChar="ă" />
+            <SequenceMapping
+                charSource="111"
+                index="4"
+                targetChar="ơ" />
+            <SequenceMapping
+                charSource="119"
+                index="5"
+                targetChar="ư" />
+            <SequenceMapping
+                charSource="226"
+                index="6"
+                targetChar="ă" />
+            <SequenceMapping
+                charSource="244"
+                index="7"
+                targetChar="ơ" />
+        </SequenceMappings>
+        <!--r-->
+        <SequenceMappings secoundKey="114">
+            <SequenceMapping
+                charSource="a"
+                index="1"
+                targetChar="ả" />
+            <SequenceMapping
+                charSource="â"
+                index="2"
+                targetChar="ẩ" />
+            <SequenceMapping
+                charSource="ă"
+                index="3"
+                targetChar="ẳ" />
+            <SequenceMapping
+                charSource="o"
+                index="4"
+                targetChar="ỏ" />
+            <SequenceMapping
+                charSource="ô"
+                index="5"
+                targetChar="ổ" />
+            <SequenceMapping
+                charSource="ơ"
+                index="6"
+                targetChar="ở" />
+            <SequenceMapping
+                charSource="e"
+                index="7"
+                targetChar="ẻ" />
+            <SequenceMapping
+                charSource="ê"
+                index="8"
+                targetChar="ể" />
+            <SequenceMapping
+                charSource="u"
+                index="9"
+                targetChar="ủ" />
+            <SequenceMapping
+                charSource="ư"
+                index="10"
+                targetChar="ử" />
+            <SequenceMapping
+                charSource="y"
+                index="11"
+                targetChar="ỷ" />
+            <SequenceMapping
+                charSource="i"
+                index="12"
+                targetChar="ỉ" />
+        </SequenceMappings>
+        <!--s-->
+        <SequenceMappings secoundKey="115">
+            <SequenceMapping
+                charSource="a"
+                index="1"
+                targetChar="á" />
+            <SequenceMapping
+                charSource="â"
+                index="2"
+                targetChar="ấ" />
+            <SequenceMapping
+                charSource="ă"
+                index="3"
+                targetChar="ắ" />
+            <SequenceMapping
+                charSource="o"
+                index="4"
+                targetChar="ó" />
+            <SequenceMapping
+                charSource="ô"
+                index="5"
+                targetChar="ố" />
+            <SequenceMapping
+                charSource="ơ"
+                index="6"
+                targetChar="ớ" />
+            <SequenceMapping
+                charSource="e"
+                index="7"
+                targetChar="é" />
+            <SequenceMapping
+                charSource="ê"
+                index="8"
+                targetChar="ế" />
+            <SequenceMapping
+                charSource="u"
+                index="9"
+                targetChar="ú" />
+            <SequenceMapping
+                charSource="ư"
+                index="10"
+                targetChar="ứ" />
+            <SequenceMapping
+                charSource="y"
+                index="11"
+                targetChar="ý" />
+            <SequenceMapping
+                charSource="i"
+                index="12"
+                targetChar="í" />
+        </SequenceMappings>
+        <!--f-->
+        <SequenceMappings secoundKey="102">
+            <SequenceMapping
+                charSource="a"
+                index="1"
+                targetChar="à" />
+            <SequenceMapping
+                charSource="â"
+                index="2"
+                targetChar="ầ" />
+            <SequenceMapping
+                charSource="ă"
+                index="3"
+                targetChar="ằ" />
+            <SequenceMapping
+                charSource="o"
+                index="4"
+                targetChar="ò" />
+            <SequenceMapping
+                charSource="ô"
+                index="5"
+                targetChar="ồ" />
+            <SequenceMapping
+                charSource="ơ"
+                index="6"
+                targetChar="ờ" />
+            <SequenceMapping
+                charSource="e"
+                index="7"
+                targetChar="è" />
+            <SequenceMapping
+                charSource="ê"
+                index="8"
+                targetChar="ề" />
+            <SequenceMapping
+                charSource="u"
+                index="9"
+                targetChar="ù" />
+            <SequenceMapping
+                charSource="ư"
+                index="10"
+                targetChar="ừ" />
+            <SequenceMapping
+                charSource="y"
+                index="11"
+                targetChar="ỳ" />
+            <SequenceMapping
+                charSource="i"
+                index="12"
+                targetChar="ì" />
+        </SequenceMappings>
+        <!--j-->
+        <SequenceMappings secoundKey="106">
+            <SequenceMapping
+                charSource="a"
+                index="1"
+                targetChar="ạ" />
+            <SequenceMapping
+                charSource="â"
+                index="2"
+                targetChar="ậ" />
+            <SequenceMapping
+                charSource="ă"
+                index="3"
+                targetChar="ặ" />
+            <SequenceMapping
+                charSource="o"
+                index="4"
+                targetChar="ọ" />
+            <SequenceMapping
+                charSource="ô"
+                index="5"
+                targetChar="ộ" />
+            <SequenceMapping
+                charSource="ơ"
+                index="6"
+                targetChar="ợ" />
+            <SequenceMapping
+                charSource="e"
+                index="7"
+                targetChar="ẹ" />
+            <SequenceMapping
+                charSource="ê"
+                index="8"
+                targetChar="ệ" />
+            <SequenceMapping
+                charSource="u"
+                index="9"
+                targetChar="ụ" />
+            <SequenceMapping
+                charSource="ư"
+                index="10"
+                targetChar="ự" />
+            <SequenceMapping
+                charSource="y"
+                index="11"
+                targetChar="ỵ" />
+            <SequenceMapping
+                charSource="i"
+                index="12"
+                targetChar="ị" />
+        </SequenceMappings>
+        <!--x-->
+        <SequenceMappings secoundKey="120">
+            <SequenceMapping
+                charSource="a"
+                index="1"
+                targetChar="ã" />
+            <SequenceMapping
+                charSource="â"
+                index="2"
+                targetChar="ẫ" />
+            <SequenceMapping
+                charSource="ă"
+                index="3"
+                targetChar="ẵ" />
+            <SequenceMapping
+                charSource="o"
+                index="4"
+                targetChar="õ" />
+            <SequenceMapping
+                charSource="ô"
+                index="5"
+                targetChar="ỗ" />
+            <SequenceMapping
+                charSource="ơ"
+                index="6"
+                targetChar="ỡ" />
+            <SequenceMapping
+                charSource="e"
+                index="7"
+                targetChar="ẽ" />
+            <SequenceMapping
+                charSource="ê"
+                index="8"
+                targetChar="ễ" />
+            <SequenceMapping
+                charSource="u"
+                index="9"
+                targetChar="ữ" />
+            <SequenceMapping
+                charSource="ư"
+                index="10"
+                targetChar="ữ" />
+            <SequenceMapping
+                charSource="y"
+                index="11"
+                targetChar="ỹ" />
+            <SequenceMapping
+                charSource="i"
+                index="12"
+                targetChar="ĩ" />
+        </SequenceMappings>
+    </Sequence>
+
+</TranslationMapping>
