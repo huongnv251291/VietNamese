@@ -10,5 +10,6 @@
         nameResId="@string/app_name"
         nonCharterOfLangResId="@xml/vietnamese_non_charter"
         physicalKeyboardMappingResId="@xml/vietnam_physical"
-        translationMappingResId="@xml/vietnam_translation" />
+        translationMappingResId="@xml/vietnam_translation"
+        />
 </Keyboards>

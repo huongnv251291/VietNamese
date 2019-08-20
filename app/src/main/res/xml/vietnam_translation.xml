@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TranslationMapping translationKey="101,111,97,100,119,114,115,102,106,120">
+<TranslationMapping>
     <Sequence>
         <!--e-->
-        <SequenceMappings secoundKey="101">
+        <SequenceMappings secoundKey="101"
+            tone="flat">
             <SequenceMapping
                 charSource="e"
                 index="1"
                 targetChar="ê" />
         </SequenceMappings>
         <!--o-->
-        <SequenceMappings secoundKey="111">
+        <SequenceMappings secoundKey="111"
+            tone="flat">
             <SequenceMapping
                 charSource="o"
                 index="1"
@@ -20,7 +22,8 @@
                 targetChar="ô" />
         </SequenceMappings>
         <!--a-->
-        <SequenceMappings secoundKey="97">
+        <SequenceMappings secoundKey="97"
+            tone="flat">
             <SequenceMapping
                 charSource="a"
                 index="1"
@@ -31,46 +34,49 @@
                 targetChar="â" />
         </SequenceMappings>
         <!--d-->
-        <SequenceMappings secoundKey="100">
+        <SequenceMappings secoundKey="100"
+            tone="flat">
             <SequenceMapping
                 charSource="d"
                 index="1"
                 targetChar="đ" />
         </SequenceMappings>
         <!--w-->
-        <SequenceMappings secoundKey="119">
+        <SequenceMappings secoundKey="119"
+            tone="flat">
             <SequenceMapping
-                charSource="117,111"
+                charSource="uo"
                 index="1"
                 notMap="o"
                 targetChar="ươ" />
             <SequenceMapping
-                charSource="117,117"
+                charSource="ưu"
                 index="2"
                 targetChar="ưu" />
             <SequenceMapping
-                charSource="97"
+                charSource="a"
                 index="3"
                 targetChar="ă" />
             <SequenceMapping
-                charSource="111"
+                charSource="o"
                 index="4"
                 targetChar="ơ" />
             <SequenceMapping
-                charSource="119"
+                charSource="u"
                 index="5"
                 targetChar="ư" />
             <SequenceMapping
-                charSource="226"
+                charSource="â"
                 index="6"
                 targetChar="ă" />
             <SequenceMapping
-                charSource="244"
+                charSource="ô"
                 index="7"
                 targetChar="ơ" />
         </SequenceMappings>
         <!--r-->
-        <SequenceMappings secoundKey="114">
+        <SequenceMappings secoundKey="114"
+            tone="oblique">
             <SequenceMapping
                 charSource="a"
                 index="1"
@@ -121,7 +127,8 @@
                 targetChar="ỉ" />
         </SequenceMappings>
         <!--s-->
-        <SequenceMappings secoundKey="115">
+        <SequenceMappings secoundKey="115"
+            tone="oblique">
             <SequenceMapping
                 charSource="a"
                 index="1"
@@ -172,7 +179,8 @@
                 targetChar="í" />
         </SequenceMappings>
         <!--f-->
-        <SequenceMappings secoundKey="102">
+        <SequenceMappings secoundKey="102"
+            tone="oblique">
             <SequenceMapping
                 charSource="a"
                 index="1"
@@ -223,7 +231,8 @@
                 targetChar="ì" />
         </SequenceMappings>
         <!--j-->
-        <SequenceMappings secoundKey="106">
+        <SequenceMappings secoundKey="106"
+            tone="oblique">
             <SequenceMapping
                 charSource="a"
                 index="1"
@@ -274,7 +283,8 @@
                 targetChar="ị" />
         </SequenceMappings>
         <!--x-->
-        <SequenceMappings secoundKey="120">
+        <SequenceMappings secoundKey="120"
+            tone="oblique">
             <SequenceMapping
                 charSource="a"
                 index="1"
