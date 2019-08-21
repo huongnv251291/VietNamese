@@ -37,9 +37,9 @@
             <meta-data
                 android:name="com.menny.android.anysoftkeyboard.keyboards"
                 android:resource="@xml/vietnamese_keyboards" />
-            <!--<meta-data-->
-                <!--android:name="com.menny.android.anysoftkeyboard.dictionaries"-->
-                <!--android:resource="@xml/vietnam_dictionaries" />-->
+            <meta-data
+                android:name="com.menny.android.anysoftkeyboard.dictionaries"
+                android:resource="@xml/vietnam_dictionaries" />
         </receiver>
     </application>
 

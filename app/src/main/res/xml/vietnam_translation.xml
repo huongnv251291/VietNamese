@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TranslationMapping>
-    <Sequence>
         <!--e-->
         <SequenceMappings secoundKey="101"
             tone="flat">
@@ -334,6 +333,4 @@
                 index="12"
                 targetChar="ĩ" />
         </SequenceMappings>
-    </Sequence>
-
 </TranslationMapping>

@@ -3,5 +3,9 @@
     <array name="vn_dict_array">
         <item>@raw/main</item>
         <item>@raw/main_vi</item>
+        <item>@raw/base_char_vi</item>
+        <item>@raw/base_chars_trie</item>
+        <item>@raw/prefix</item>
+        <item>@raw/prefix_index</item>
     </array>
 </resources>
