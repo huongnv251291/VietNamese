@@ -44,16 +44,6 @@
         <SequenceMappings secoundKey="119"
             tone="flat">
             <SequenceMapping
-                charSource="uo"
-                index="1"
-                parent="u"
-                targetChar="ươ" />
-            <SequenceMapping
-                charSource="ưu"
-                index="2"
-                parent="u"
-                targetChar="ưu" />
-            <SequenceMapping
                 charSource="a,á,à,ạ,ả,ã"
                 index="3"
                 targetChar="ă,ắ,ằ,ặ,ẳ,ẵ" />
@@ -334,5 +324,4 @@
                 index="12"
                 targetChar="ĩ" />
         </SequenceMappings>
-
 </TranslationMapping>
