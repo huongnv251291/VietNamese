@@ -4,33 +4,33 @@
         <SequenceMappings secoundKey="101"
             tone="flat">
             <SequenceMapping
-                charSource="e"
+                charSource="e,é,è,ẻ,ẽ,ẹ"
                 index="1"
-                targetChar="ê" />
+                targetChar="ê,ế,ề,ể,ễ,ệ" />
         </SequenceMappings>
         <!--o-->
         <SequenceMappings secoundKey="111"
             tone="flat">
             <SequenceMapping
-                charSource="o"
+                charSource="o,ó,ò,ỏ,õ,ọ"
                 index="1"
-                targetChar="ô" />
+                targetChar="ô,ố,ồ,ổ,ỗ,ộ" />
             <SequenceMapping
-                charSource="ơ"
+                charSource="ơ,ớ,ờ,ở,ỡ,ợ"
                 index="2"
-                targetChar="ô" />
+                targetChar="ô,ố,ồ,ổ,ỗ,ộ" />
         </SequenceMappings>
         <!--a-->
         <SequenceMappings secoundKey="97"
             tone="flat">
             <SequenceMapping
-                charSource="a"
+                charSource="a,á,à,ả,ã,ạ"
                 index="1"
-                targetChar="â" />
+                targetChar="â,ấ,ầ,ẩ,ẫ,ậ" />
             <SequenceMapping
-                charSource="ă"
+                charSource="ă,ắ,ằ,ẳ,ẵ,ặ"
                 index="2"
-                targetChar="â" />
+                targetChar="â,ấ,ầ,ẩ,ẫ,ậ" />
         </SequenceMappings>
         <!--d-->
         <SequenceMappings secoundKey="100"
@@ -46,82 +46,83 @@
             <SequenceMapping
                 charSource="uo"
                 index="1"
-                notMap="o"
+                parent="u"
                 targetChar="ươ" />
             <SequenceMapping
                 charSource="ưu"
                 index="2"
+                parent="u"
                 targetChar="ưu" />
             <SequenceMapping
-                charSource="a"
+                charSource="a,á,à,ạ,ả,ã"
                 index="3"
-                targetChar="ă" />
+                targetChar="ă,ắ,ằ,ặ,ẳ,ẵ" />
             <SequenceMapping
-                charSource="o"
+                charSource="o,ó,ò,ỏ,õ,ọ"
                 index="4"
-                targetChar="ơ" />
+                targetChar="ơ,ớ,ờ,ở,ỡ,ợ" />
             <SequenceMapping
-                charSource="u"
+                charSource="u,ú,ù,ủ,ũ,ụ"
                 index="5"
-                targetChar="ư" />
+                targetChar="ư,ứ,ừ,ử,ữ,ự" />
             <SequenceMapping
-                charSource="â"
+                charSource="â,ấ,ầ,ẩ,ẫ,ậ"
                 index="6"
-                targetChar="ă" />
+                targetChar="ă,ắ,ằ,ẳ,ẵ,ặ" />
             <SequenceMapping
-                charSource="ô"
+                charSource="ô,ố,ồ,ổ,ỗ,ộ"
                 index="7"
-                targetChar="ơ" />
+                targetChar="ơ,ớ,ờ,ở,ỡ,ợ" />
         </SequenceMappings>
         <!--r-->
         <SequenceMappings secoundKey="114"
             tone="oblique">
             <SequenceMapping
-                charSource="a"
+                charSource="a,á,à,ạ,ã"
                 index="1"
                 targetChar="ả" />
             <SequenceMapping
-                charSource="â"
+                charSource="â,ấ,ầ,ẫ,ậ"
                 index="2"
                 targetChar="ẩ" />
             <SequenceMapping
-                charSource="ă"
+                charSource="ă,ắ,ằ,ẵ,ặ"
                 index="3"
                 targetChar="ẳ" />
             <SequenceMapping
-                charSource="o"
+                charSource="o,ó,ò,õ,ọ"
                 index="4"
                 targetChar="ỏ" />
             <SequenceMapping
-                charSource="ô"
+                charSource="ô,ố,ồ,ỗ,ộ"
                 index="5"
                 targetChar="ổ" />
             <SequenceMapping
-                charSource="ơ"
+                charSource="ơ,ớ,ờ,ỡ,ợ"
                 index="6"
                 targetChar="ở" />
             <SequenceMapping
-                charSource="e"
+                charSource="e,é,è,ẽ,ẹ"
                 index="7"
                 targetChar="ẻ" />
             <SequenceMapping
-                charSource="ê"
+                charSource="ê,ế,ề,ễ,ệ"
                 index="8"
                 targetChar="ể" />
             <SequenceMapping
-                charSource="u"
+                charSource="u,ú,ù,ũ,ụ"
                 index="9"
                 targetChar="ủ" />
             <SequenceMapping
-                charSource="ư"
+                charSource="ư,ứ,ừ,ữ,ự"
                 index="10"
                 targetChar="ử" />
             <SequenceMapping
-                charSource="y"
+                charSource="y,ý,ỳ,ỹ,ỵ"
                 index="11"
                 targetChar="ỷ" />
             <SequenceMapping
-                charSource="i"
+                charSource="i,í,ì,ĩ,ị"
                 index="12"
                 targetChar="ỉ" />
         </SequenceMappings>
@@ -129,51 +130,51 @@
         <SequenceMappings secoundKey="115"
             tone="oblique">
             <SequenceMapping
-                charSource="a"
+                charSource="a,ả,à,ạ,ã"
                 index="1"
                 targetChar="á" />
             <SequenceMapping
-                charSource="â"
+                charSource="â,ẩ,ầ,ẫ,ậ"
                 index="2"
                 targetChar="ấ" />
             <SequenceMapping
-                charSource="ă"
+                charSource="ă,ẳ,ằ,ẵ,ặ"
                 index="3"
                 targetChar="ắ" />
             <SequenceMapping
-                charSource="o"
+                charSource="o,ỏ,ò,õ,ọ"
                 index="4"
                 targetChar="ó" />
             <SequenceMapping
-                charSource="ô"
+                charSource="ô,ổ,ồ,ỗ,ộ"
                 index="5"
                 targetChar="ố" />
             <SequenceMapping
-                charSource="ơ"
+                charSource="ơ,ở,ờ,ỡ,ợ"
                 index="6"
-                targetChar="ớ" />
+                targetChar="ở" />
             <SequenceMapping
-                charSource="e"
+                charSource="e,ẻ,è,ẽ,ẹ"
                 index="7"
                 targetChar="é" />
             <SequenceMapping
-                charSource="ê"
+                charSource="ê,ể,ề,ễ,ệ"
                 index="8"
-                targetChar="ế" />
+                targetChar="ể" />
             <SequenceMapping
-                charSource="u"
+                charSource="u,ủ,ù,ũ,ụ"
                 index="9"
                 targetChar="ú" />
             <SequenceMapping
-                charSource="ư"
+                charSource="ư,ử,ừ,ữ,ự"
                 index="10"
                 targetChar="ứ" />
             <SequenceMapping
-                charSource="y"
+                charSource="y,ỷ,ỳ,ỹ,ỵ"
                 index="11"
                 targetChar="ý" />
             <SequenceMapping
-                charSource="i"
+                charSource="i,ỉ,ì,ĩ,ị"
                 index="12"
                 targetChar="í" />
         </SequenceMappings>
@@ -181,51 +182,51 @@
         <SequenceMappings secoundKey="102"
             tone="oblique">
             <SequenceMapping
-                charSource="a"
+                charSource="a,á,ả,ạ,ã"
                 index="1"
                 targetChar="à" />
             <SequenceMapping
-                charSource="â"
+                charSource="â,ấ,ẩ,ẫ,ậ"
                 index="2"
                 targetChar="ầ" />
             <SequenceMapping
-                charSource="ă"
+                charSource="ă,ắ,ẳ,ẵ,ặ"
                 index="3"
                 targetChar="ằ" />
             <SequenceMapping
-                charSource="o"
+                charSource="o,ó,ỏ,õ,ọ"
                 index="4"
                 targetChar="ò" />
             <SequenceMapping
-                charSource="ô"
+                charSource="ô,ố,ổ,ỗ,ộ"
                 index="5"
                 targetChar="ồ" />
             <SequenceMapping
-                charSource="ơ"
+                charSource="ơ,ớ,ở,ỡ,ợ"
                 index="6"
                 targetChar="ờ" />
             <SequenceMapping
-                charSource="e"
+                charSource="e,é,ẻ,ẽ,ẹ"
                 index="7"
                 targetChar="è" />
             <SequenceMapping
-                charSource="ê"
+                charSource="ê,ế,ể,ễ,ệ"
                 index="8"
                 targetChar="ề" />
             <SequenceMapping
-                charSource="u"
+                charSource="u,ú,ủ,ũ,ụ"
                 index="9"
                 targetChar="ù" />
             <SequenceMapping
-                charSource="ư"
+                charSource="ư,ứ,ử,ữ,ự"
                 index="10"
                 targetChar="ừ" />
             <SequenceMapping
-                charSource="y"
+                charSource="y,ý,ỷ,ỹ,ỵ"
                 index="11"
                 targetChar="ỳ" />
             <SequenceMapping
-                charSource="i"
+                charSource="i,í,ỉ,ĩ,ị"
                 index="12"
                 targetChar="ì" />
         </SequenceMappings>
@@ -233,51 +234,51 @@
         <SequenceMappings secoundKey="106"
             tone="oblique">
             <SequenceMapping
-                charSource="a"
+                charSource="a,á,à,ả,ã"
                 index="1"
                 targetChar="ạ" />
             <SequenceMapping
-                charSource="â"
+                charSource="â,ấ,ầ,ẫ,ẩ"
                 index="2"
                 targetChar="ậ" />
             <SequenceMapping
-                charSource="ă"
+                charSource="ă,ắ,ằ,ẵ,ẳ"
                 index="3"
                 targetChar="ặ" />
             <SequenceMapping
-                charSource="o"
+                charSource="o,ó,ò,õ,ỏ"
                 index="4"
                 targetChar="ọ" />
             <SequenceMapping
-                charSource="ô"
+                charSource="ô,ố,ồ,ỗ,ổ"
                 index="5"
                 targetChar="ộ" />
             <SequenceMapping
-                charSource="ơ"
+                charSource="ơ,ớ,ờ,ỡ,ở"
                 index="6"
                 targetChar="ợ" />
             <SequenceMapping
-                charSource="e"
+                charSource="e,é,è,ẽ,ẻ"
                 index="7"
                 targetChar="ẹ" />
             <SequenceMapping
-                charSource="ê"
+                charSource="ê,ế,ề,ễ,ể"
                 index="8"
                 targetChar="ệ" />
             <SequenceMapping
-                charSource="u"
+                charSource="u,ú,ù,ũ,ủ"
                 index="9"
                 targetChar="ụ" />
             <SequenceMapping
-                charSource="ư"
+                charSource="ư,ứ,ừ,ữ,ử"
                 index="10"
                 targetChar="ự" />
             <SequenceMapping
-                charSource="y"
+                charSource="y,ý,ỳ,ỹ,ỷ"
                 index="11"
                 targetChar="ỵ" />
             <SequenceMapping
-                charSource="i"
+                charSource="i,í,ì,ĩ,ỉ"
                 index="12"
                 targetChar="ị" />
         </SequenceMappings>
@@ -285,52 +286,53 @@
         <SequenceMappings secoundKey="120"
             tone="oblique">
             <SequenceMapping
-                charSource="a"
+                charSource="a,á,à,ạ,ả"
                 index="1"
                 targetChar="ã" />
             <SequenceMapping
-                charSource="â"
+                charSource="â,ấ,ầ,ẫ,ẩ"
                 index="2"
                 targetChar="ẫ" />
             <SequenceMapping
-                charSource="ă"
+                charSource="ă,ắ,ằ,ẳ,ặ"
                 index="3"
                 targetChar="ẵ" />
             <SequenceMapping
-                charSource="o"
+                charSource="o,ó,ò,ỏ,ọ"
                 index="4"
                 targetChar="õ" />
             <SequenceMapping
-                charSource="ô"
+                charSource="ô,ố,ồ,ổ,ộ"
                 index="5"
                 targetChar="ỗ" />
             <SequenceMapping
-                charSource="ơ"
+                charSource="ơ,ớ,ờ,ở,ợ"
                 index="6"
                 targetChar="ỡ" />
             <SequenceMapping
-                charSource="e"
+                charSource="e,é,è,ẻ,ẹ"
                 index="7"
                 targetChar="ẽ" />
             <SequenceMapping
-                charSource="ê"
+                charSource="ê,ế,ề,ể,ệ"
                 index="8"
                 targetChar="ễ" />
             <SequenceMapping
-                charSource="u"
+                charSource="u,ú,ù,ủ,ụ"
                 index="9"
-                targetChar="ữ" />
+                targetChar="ũ" />
             <SequenceMapping
-                charSource="ư"
+                charSource="ư,ứ,ừ,ử,ự"
                 index="10"
                 targetChar="ữ" />
             <SequenceMapping
-                charSource="y"
+                charSource="y,ý,ỳ,ỷ,ỵ"
                 index="11"
                 targetChar="ỹ" />
             <SequenceMapping
-                charSource="i"
+                charSource="i,í,ì,ỉ,ị"
                 index="12"
                 targetChar="ĩ" />
         </SequenceMappings>
+
 </TranslationMapping>
