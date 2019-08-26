@@ -13,9 +13,6 @@
         charterKey="j"
         numCanShowInText="0" />
     <Charter
-        charterKey="k"
-        numCanShowInText="1" />
-    <Charter
         charterKey="l"
         numCanShowInText="1" />
     <Charter
@@ -23,7 +20,7 @@
         numCanShowInText="1" />
     <Charter
         charterKey="r"
-        numCanShowInText="2" />
+        numCanShowInText="1" />
     <Charter
         charterKey="s"
         numCanShowInText="1" />
@@ -39,4 +36,74 @@
     <Charter
         charterKey="z"
         numCanShowInText="0" />
+    <Charter
+        canMapping="1"
+        charterKey="a"
+        numCanShowInText="1" />
+    <Charter
+        canMapping="1"
+        charterKey="ă"
+        numCanShowInText="1" />
+    <Charter
+        canMapping="1"
+        charterKey="â"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="c"
+        numCanShowInText="2" />
+    <Charter
+        charterKey="đ"
+        numCanShowInText="1" />
+    <Charter
+        canMapping="1"
+        charterKey="e"
+        numCanShowInText="2" />
+    <Charter
+        canMapping="1"
+        charterKey="ê"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="g"
+        numCanShowInText="2" />
+    <Charter
+        charterKey="h"
+        numCanShowInText="2" />
+    <Charter
+        canMapping="1"
+        charterKey="i"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="k"
+        numCanShowInText="2" />
+    <Charter
+        charterKey="n"
+        numCanShowInText="2" />
+    <Charter
+        canMapping="1"
+        charterKey="o"
+        numCanShowInText="2" />
+    <Charter
+        canMapping="1"
+        charterKey="ô"
+        numCanShowInText="1" />
+    <Charter
+        canMapping="1"
+        charterKey="ơ"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="p"
+        numCanShowInText="1" />
+
+    <Charter
+        charterKey="t"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="u"
+        numCanShowInText="2" />
+    <Charter
+        charterKey="ư"
+        numCanShowInText="1" />
+    <Charter
+        charterKey="y"
+        numCanShowInText="1" />
 </Charters>
