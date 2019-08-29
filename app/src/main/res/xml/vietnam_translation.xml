@@ -2,30 +2,8 @@
 <TranslationMapping
     keyFlatOriginVowelDectecter="a,e,i,o,u,y"
     keyFlatTargetVowelDectecter="â,ă,ê,ô,ơ,ư"
-    keyMultiFlat="
-    ai,ao,au,ay,
-    âu,ây,
-    eo,êu,
-    iu,ia,iê,iêu,
-    oi,oa,oai,oao,oay,oă,oe,oeo,
-    ôi,
-    ơi,
-    ui,
-    ua,uô,uôi,uây,uân,uơ,uê,uy,uyu,uya,uyê,
-    ưi,ưu,ưa,ươc,ươi,ươ,ươu,
-    yê,yêu
-    "
-    keyObliqueTargetDectecter="
-    á,à,ả,ã,ạ,
-    ấ,ầ,ẩ,ẫ,ậ,
-    ắ,ằ,ẳ,ẵ,ặ,
-    ế,ề,ể,ễ,ệ,
-    ì,í,ỉ,ĩ,ị,
-    ó,ò,ỏ,õ,ọ,
-    ớ,ờ,ở,ỡ,ợ,
-    ú,ù,ủ,ũ,ụ,
-    ứ,ừ,ử,ữ,ự,
-    ý,ỳ,ỷ,ỹ,ỵ">
+    keyMultiFlat="ai,ao,au,ay,âu,ây,eo,êu,iu,ia,iê,iêu,oi,oa,oai,oao,oay,oă,oe,oeo,ôi,ơi,ui,ua,uô,uôi,uây,uân,uơ,uê,uy,uyu,uya,uyê,ưi,ưu,ưa,ươc,ươi,ươ,ươu,yê,yêu"
+    keyObliqueTargetDectecter="á,à,ả,ã,ạ,ấ,ầ,ẩ,ẫ,ậ,ắ,ằ,ẳ,ẵ,ặ,ế,ề,ể,ễ,ệ,ì,í,ỉ,ĩ,ị,ó,ò,ỏ,õ,ọ,ớ,ờ,ở,ỡ,ợ,ú,ù,ủ,ũ,ụ,ứ,ừ,ử,ữ,ự,ý,ỳ,ỷ,ỹ,ỵ">
 
     <!--e-->
     <SequenceMappings
@@ -362,5 +340,8 @@
             targetChar="ĩ" />
     </SequenceMappings>
 
-
+    <FixGrammars>
+        <FixGrammar
+            source=""/>
+    </FixGrammars>
 </TranslationMapping>
