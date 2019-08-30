@@ -154,7 +154,7 @@
         <SequenceMapping
             charSource="ơ,ở,ờ,ỡ,ợ"
             index="6"
-            targetChar="ở" />
+            targetChar="ớ" />
         <SequenceMapping
             charSource="e,ẻ,è,ẽ,ẹ"
             index="7"

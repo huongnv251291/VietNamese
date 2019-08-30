@@ -6,7 +6,7 @@
         iconResId="@drawable/ic_launcher_background"
         id="0b2cfdb0-6a39-4c85-8074-4e4c503b74f6"
         index="1"
-        layoutResId="@xml/vietnam_qwerty"
+        layoutResId="@xml/vietnam_qwerty_one"
         nameResId="@string/app_name"
         nonCharterOfLangResId="@xml/vietnamese_non_charter"
         physicalKeyboardMappingResId="@xml/vietnam_physical"
