@@ -4,7 +4,7 @@
         defaultDictionaryLocale="vi"
         description="Created by huong"
         iconResId="@drawable/ic_launcher_background"
-        id="0b2cfdb0-6a39-4c85-8074-4e4c503b74f6"
+        id="56d9f351-331e-4f8d-9102-b38ccd6559bd"
         index="1"
         layoutResId="@xml/vietnam_qwerty_one"
         nameResId="@string/app_name"

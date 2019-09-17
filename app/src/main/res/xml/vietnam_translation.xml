@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TranslationMapping
-    keyFlatOriginVowelDectecter="a,e,i,o,u,y"
-    keyFlatTargetVowelDectecter="â,ă,ê,ô,ơ,ư"
+    keyFlatOriginVowelDectecter="a,e,i,o,u,y,d"
+    keyFlatTargetVowelDectecter="â,ă,ê,ô,ơ,ư,đ"
     keyMultiFlat="ai,ao,au,ay,âu,ây,eo,êu,iu,ia,iê,iêu,oi,oa,oai,oao,oay,oă,oe,oeo,ôi,ơi,ui,ua,uô,uôi,uây,uân,uơ,uê,uy,uyu,uya,uyê,ưi,ưu,ưa,ươc,ươi,ươ,ươu,yê,yêu"
     keyObliqueTargetDectecter="á,à,ả,ã,ạ,ấ,ầ,ẩ,ẫ,ậ,ắ,ằ,ẳ,ẵ,ặ,ế,ề,ể,ễ,ệ,ì,í,ỉ,ĩ,ị,ó,ò,ỏ,õ,ọ,ớ,ờ,ở,ỡ,ợ,ú,ù,ủ,ũ,ụ,ứ,ừ,ử,ữ,ự,ý,ỳ,ỷ,ỹ,ỵ">
 
@@ -43,7 +43,7 @@
     <!--d-->
     <SequenceMappings
         secoundKey="100"
-        tone="flat">
+        tone="start">
         <SequenceMapping
             charSource="d"
             index="1"
