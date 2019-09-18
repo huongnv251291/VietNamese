@@ -49,6 +49,10 @@
             index="1"
             targetChar="đ" />
     </SequenceMappings>
+    <SequenceMappings
+        secoundKey="273"
+        tone="start">
+    </SequenceMappings>
     <!--w-->
     <SequenceMappings
         secoundKey="119"
@@ -162,7 +166,7 @@
         <SequenceMapping
             charSource="ê,ể,ề,ễ,ệ"
             index="8"
-            targetChar="ể" />
+            targetChar="ế" />
         <SequenceMapping
             charSource="u,ủ,ù,ũ,ụ"
             index="9"
