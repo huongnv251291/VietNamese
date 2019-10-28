@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.anysoftkeyboard">
+    package="com.tohsoftkeyboard.languagepack.vietnamese">
 
     <application
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="@string/vietnam_dict"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:largeHeap="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.anysoftkeyboard.vietnamese.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,17 +18,17 @@
             </intent-filter>
         </activity>
         <receiver
-            android:name=".vietnamese.PackBroadcastReceiver"
+            android:name="com.anysoftkeyboard.vietnamese.PackBroadcastReceiver"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.menny.android.anysoftkeyboard.KEYBOARD" />
+                <action android:name="com.tohsoft.plugin.KEYBOARDS" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.ALTERNATIVE" />
                 <category android:name="android.intent.category.SELECTED_ALTERNATIVE" />
             </intent-filter>
             <intent-filter>
-                <action android:name="com.menny.android.anysoftkeyboard.DICTIONARY" />
+                <action android:name="com.tohsoft.plugin.DICTIONARY" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.ALTERNATIVE" />
@@ -35,10 +36,10 @@
             </intent-filter>
 
             <meta-data
-                android:name="com.menny.android.anysoftkeyboard.keyboards"
+                android:name="com.tohsoft.plugindata.keyboards"
                 android:resource="@xml/vietnamese_keyboards" />
             <meta-data
-                android:name="com.menny.android.anysoftkeyboard.dictionaries"
+                android:name="com.tohsoft.plugindata.dictionaries"
                 android:resource="@xml/vietnam_dictionaries" />
         </receiver>
     </application>
