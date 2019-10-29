@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dictionaries>
    <Dictionary
-       description="@string/app_name"
-       dictionaryAssertName="suggest.dict"
-       id="d11925a6-d521-4f7a-8da9-3b811882e34f"
-       locale="ar"
+       description="Created by archivator"
+       dictionaryResourceId="@raw/bg_main"
+       id="b2eb3502-4083-4a0b-9b6f-d1b112cf0c4c"
+       locale="bg"
        nameResId="@string/app_name"
-       type="binary" />
+       type="binary_resource" />
 </Dictionaries>

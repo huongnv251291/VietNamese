@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Keyboards>
    <Keyboard
-       defaultDictionaryLocale="ar"
-       description="@string/app_name"
+       defaultDictionaryLocale="bg"
+       description="Created with atg2d"
        iconResId="@drawable/ic_launcher_background"
-       id="83d4ed82-d5ce-42c4-a8bf-449b495b38e6"
+       id="f49f1c56-c466-4199-90f4-b29659bfbe08"
        index="1"
-       layoutResId="@xml/arabic_qwerty"
-       nameResId="@string/app_name" />
+       layoutResId="@xml/bg_bds_qwerty"
+       nameResId="Bulgarian BDS"
+       physicalKeyboardMappingResId="@xml/bg_bds_physical" />
+   <Keyboard
+       defaultDictionaryLocale="bg"
+       description="Created with atg2d"
+       iconResId="@drawable/ic_launcher_background"
+       id="b300fe29-e3f6-4780-af46-609d341ad3b1"
+       index="2"
+       layoutResId="@xml/bg_ph_qwerty"
+       nameResId="Bulgarian Phonetic"
+       physicalKeyboardMappingResId="@xml/bg_ph_physical" />
+   <Keyboard
+       defaultDictionaryLocale="bg"
+       description="Created with atg2d"
+       iconResId="@drawable/ic_launcher_background"
+       id="8ce89454-d6a9-45bc-96ce-457d6d572c2a"
+       index="3"
+       landscapeResId="@xml/bg_ph_qwerty"
+       layoutResId="@xml/bg_4ph_qwerty"
+       nameResId="4 Rows BP"
+       physicalKeyboardMappingResId="@xml/bg_ph_physical" />
+   <Keyboard
+       defaultDictionaryLocale="bg"
+       description="Created with atg2d"
+       iconResId="@drawable/ic_launcher_background"
+       id="8e01ed1d-ab38-4e28-8102-9da28d6c9820"
+       index="4"
+       landscapeResId="@xml/bg_ph_qwerty"
+       layoutResId="@xml/bg_4ph_qwerty2"
+       nameResId="4 Rows BP ver2"
+       physicalKeyboardMappingResId="@xml/bg_ph_physical" />
+   <Keyboard
+       defaultDictionaryLocale="bg"
+       description="Created with atg2d"
+       iconResId="@drawable/ic_launcher_background"
+       id="d0f8ec52-d154-45ac-8b33-73440bb3c410"
+       index="5"
+       landscapeResId="@xml/bg_bds_qwerty"
+       layoutResId="@xml/bg_4bds_qwerty"
+       nameResId="4 Rows BDS"
+       physicalKeyboardMappingResId="@xml/bg_bds_physical" />
 </Keyboards>
