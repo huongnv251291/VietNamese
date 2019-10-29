@@ -1,4 +1,4 @@
-package com.tohsoft.languagepack.vietnamese;
+package com.tohsoft.languagepack.arabic;
 
 import com.tohsoft.addon.PackBroadcastReceiverBase;
 
