@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboards>
+   <Keyboard
+       defaultDictionaryLocale="ca"
+       defaultEnabled="true"
+       description="@string/app_name"
+       iconResId="@drawable/ic_launcher_background"
+       id="56d3ba17-840b-4044-beac-4d8763a24555"
+       index="1"
+       layoutResId="@xml/qwerty"
+       nameResId="@string/app_name"
+       physicalKeyboardMappingResId="@xml/english_physical" />
+</Keyboards>

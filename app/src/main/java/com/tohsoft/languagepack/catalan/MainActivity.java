@@ -1,4 +1,4 @@
-package com.tohsoft.languagepack.bulgarian;
+package com.tohsoft.languagepack.catalan;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -14,4 +14,8 @@
         <item>\@</item>
         <item>_</item>
     </string-array>
+    <array name="catalan_words_dict_array">
+        <item>@raw/catalan_words_1</item>
+        <item>@raw/catalan_words_2</item>
+    </array>
 </resources>
