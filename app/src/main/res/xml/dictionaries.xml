@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Dictionaries xmlns:android="http://schemas.android.com/apk/res/android">
-    <Dictionary nameResId="@string/dictionary" locale="ar" id="be559bc6-a089-46ed-9f23-bbdde08dbef1" type="binary" dictionaryAssertName="ar_binary.mp3" description="Arabic dictionary based on Wikipedia, created by Yahya Hamidaddin"/>
+<Dictionaries>
+   <Dictionary
+       description="@string/app_name"
+       dictionaryAssertName="suggest.dict"
+       id="d11925a6-d521-4f7a-8da9-3b811882e34f"
+       locale="ar"
+       nameResId="@string/app_name"
+       type="binary" />
 </Dictionaries>

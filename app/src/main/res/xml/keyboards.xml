@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Keyboards xmlns:android="http://schemas.android.com/apk/res/android">
-    <Keyboard nameResId="@string/arabic_keyboard" iconResId="@drawable/ar" layoutResId="@xml/arabic_qwerty" id="141e77eb-bbe9-4e04-b1cc-8b6fd99a5f09" defaultDictionaryLocale="ar" description="Created by Yahya Hamidaddin" index="1"/>
+<Keyboards>
+   <Keyboard
+       defaultDictionaryLocale="ar"
+       description="@string/app_name"
+       iconResId="@drawable/ic_launcher_background"
+       id="83d4ed82-d5ce-42c4-a8bf-449b495b38e6"
+       index="1"
+       layoutResId="@xml/arabic_qwerty"
+       nameResId="@string/app_name" />
 </Keyboards>
