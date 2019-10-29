@@ -1,4 +1,4 @@
-package com.anysoftkeyboard.api;
+package com.tohsoft.api;
 
 public class MediaInsertion {
     public static final String BROADCAST_INTENT_MEDIA_INSERTION_AVAILABLE_ACTION = "com.anysoftkeyboard.api.BROADCAST_INTENT_MEDIA_INSERTION_AVAILABLE_ACTION";

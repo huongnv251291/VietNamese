@@ -1,4 +1,4 @@
-package com.anysoftkeyboard.addon;
+package com.tohsoft.addon;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

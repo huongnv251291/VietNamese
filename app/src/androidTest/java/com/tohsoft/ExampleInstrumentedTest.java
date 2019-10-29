@@ -1,4 +1,4 @@
-package com.anysoftkeyboard;
+package com.tohsoft;
 
 import android.content.Context;
 

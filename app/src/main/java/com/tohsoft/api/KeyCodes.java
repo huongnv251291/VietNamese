@@ -1,4 +1,4 @@
-package com.anysoftkeyboard.api;
+package com.tohsoft.api;
 
 public class KeyCodes {
     public static final int ALT = -6;

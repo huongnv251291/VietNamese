@@ -1,8 +1,7 @@
-package com.anysoftkeyboard.vietnamese;
+package com.tohsoft.languagepack.vietnamese;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.util.Log;
 
@@ -15,10 +14,6 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.nio.ByteBuffer;
-import java.nio.ByteOrder;
-import java.nio.channels.Channels;
-import java.nio.charset.StandardCharsets;
 
 public class MainActivity extends AppCompatActivity {
 
