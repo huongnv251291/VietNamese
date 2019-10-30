@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dictionaries>
    <Dictionary
-       description="Created by archivator"
+       description="@string/app_name"
        dictionaryResourceId="@raw/bg_main"
-       id="b2eb3502-4083-4a0b-9b6f-d1b112cf0c4c"
+       id="45e12078-3d79-438e-b165-e2d0da43c341"
        locale="bg"
        nameResId="@string/app_name"
        type="binary_resource" />

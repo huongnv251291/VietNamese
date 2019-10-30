@@ -2,50 +2,50 @@
 <Keyboards>
    <Keyboard
        defaultDictionaryLocale="bg"
-       description="Created with atg2d"
+       description="Bulgarian QWERTY"
        iconResId="@drawable/ic_launcher_background"
        id="f49f1c56-c466-4199-90f4-b29659bfbe08"
        index="1"
        layoutResId="@xml/bg_bds_qwerty"
-       nameResId="Bulgarian BDS"
+       nameResId="Bulgarian QWERTY"
        physicalKeyboardMappingResId="@xml/bg_bds_physical" />
    <Keyboard
        defaultDictionaryLocale="bg"
-       description="Created with atg2d"
+       description="Bulgarian Phonetic"
        iconResId="@drawable/ic_launcher_background"
-       id="b300fe29-e3f6-4780-af46-609d341ad3b1"
+       id="e89e5d20-a4bb-4653-bfdf-2492ae2a59b5"
        index="2"
        layoutResId="@xml/bg_ph_qwerty"
        nameResId="Bulgarian Phonetic"
        physicalKeyboardMappingResId="@xml/bg_ph_physical" />
    <Keyboard
        defaultDictionaryLocale="bg"
-       description="Created with atg2d"
+       description="Bulgarian 4 Rows BP"
        iconResId="@drawable/ic_launcher_background"
-       id="8ce89454-d6a9-45bc-96ce-457d6d572c2a"
+       id="88edc9ad-29fd-4db7-a0b5-be30c83a9036"
        index="3"
        landscapeResId="@xml/bg_ph_qwerty"
        layoutResId="@xml/bg_4ph_qwerty"
-       nameResId="4 Rows BP"
+       nameResId="Bulgarian 4 Rows BP"
        physicalKeyboardMappingResId="@xml/bg_ph_physical" />
    <Keyboard
        defaultDictionaryLocale="bg"
-       description="Created with atg2d"
+       description="Bulgarian 4 Rows BP ver2"
        iconResId="@drawable/ic_launcher_background"
-       id="8e01ed1d-ab38-4e28-8102-9da28d6c9820"
+       id="ab485dca-a880-4b26-80c8-aff9269bc82e"
        index="4"
        landscapeResId="@xml/bg_ph_qwerty"
        layoutResId="@xml/bg_4ph_qwerty2"
-       nameResId="4 Rows BP ver2"
+       nameResId="Bulgarian 4 Rows BP ver2"
        physicalKeyboardMappingResId="@xml/bg_ph_physical" />
    <Keyboard
        defaultDictionaryLocale="bg"
-       description="Created with atg2d"
+       description="Bulgarian 4 Rows BDS"
        iconResId="@drawable/ic_launcher_background"
-       id="d0f8ec52-d154-45ac-8b33-73440bb3c410"
+       id="72a20203-210c-468f-85ff-0d5701d28e9e"
        index="5"
        landscapeResId="@xml/bg_bds_qwerty"
        layoutResId="@xml/bg_4bds_qwerty"
-       nameResId="4 Rows BDS"
+       nameResId="Bulgarian 4 Rows BDS"
        physicalKeyboardMappingResId="@xml/bg_bds_physical" />
 </Keyboards>
