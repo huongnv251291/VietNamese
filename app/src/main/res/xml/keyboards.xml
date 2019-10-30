@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Keyboards>
-   <Keyboard
-       defaultDictionaryLocale="en"
-       defaultEnabled="true"
-       description="@string/app_name"
-       iconResId="@drawable/ic_launcher_background"
-       id="9af178eb-c4a3-44a6-a545-92823cd9fa7c"
-       index="1"
-       layoutResId="@xml/qwerty"
-       nameResId="@string/app_name" />
+    <Keyboard
+        description="@string/app_name"
+        iconResId="@drawable/ic_launcher_background"
+        id="2df7d2a7-0f7d-4261-b1a4-f677995c8924"
+        index="1"
+        layoutResId="@xml/lao_qwerty"
+        nameResId="@string/app_name" />
 </Keyboards>

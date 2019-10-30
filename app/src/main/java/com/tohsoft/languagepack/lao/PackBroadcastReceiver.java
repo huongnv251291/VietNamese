@@ -1,4 +1,4 @@
-package com.tohsoft.languagepack.hawaiian;
+package com.tohsoft.languagepack.lao;
 
 import com.tohsoft.addon.PackBroadcastReceiverBase;
 
