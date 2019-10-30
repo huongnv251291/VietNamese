@@ -3,10 +3,10 @@
    <Keyboard
        defaultDictionaryLocale="en"
        defaultEnabled="true"
-       description="Created by Keola Donaghy"
-       iconResId="@drawable/flag"
-       id="15529800-5a9b-11e0-80e3-0800200c9a66"
+       description="@string/app_name"
+       iconResId="@drawable/ic_launcher_background"
+       id="9af178eb-c4a3-44a6-a545-92823cd9fa7c"
        index="1"
        layoutResId="@xml/qwerty"
-       nameResId="@string/keyboard" />
+       nameResId="@string/app_name" />
 </Keyboards>
