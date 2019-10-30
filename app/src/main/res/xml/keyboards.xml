@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboards>
+   <Keyboard
+       defaultDictionaryLocale="en"
+       defaultEnabled="true"
+       description="Created by Keola Donaghy"
+       iconResId="@drawable/flag"
+       id="15529800-5a9b-11e0-80e3-0800200c9a66"
+       index="1"
+       layoutResId="@xml/qwerty"
+       nameResId="@string/keyboard" />
+</Keyboards>

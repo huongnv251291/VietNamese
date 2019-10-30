@@ -1,4 +1,4 @@
-package com.tohsoft.languagepack.catalan;
+package com.tohsoft.languagepack.hawaiian;
 
 import androidx.appcompat.app.AppCompatActivity;
 
