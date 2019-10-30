@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Keyboards>
     <Keyboard
+        defaultDictionaryLocale="lo"
         description="@string/app_name"
         iconResId="@drawable/ic_launcher_background"
-        id="2df7d2a7-0f7d-4261-b1a4-f677995c8924"
+        id="1b20d393-08b0-4f9c-9572-e721424d0427"
         index="1"
         layoutResId="@xml/lao_qwerty"
         nameResId="@string/app_name" />
