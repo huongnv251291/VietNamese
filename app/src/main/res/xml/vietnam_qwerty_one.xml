@@ -18,7 +18,7 @@
     </Row>
     -->
     <!-- original -->
-    <Row>
+    <Row android:rowEdgeFlags="top">
         <Key android:codes="113" android:popupCharacters="1" android:keyEdgeFlags="left"/>
         <Key android:codes="119" android:popupCharacters="2"/>
         <Key android:codes="101" android:popupKeyboard="@xml/popup_qwerty_e"/>
