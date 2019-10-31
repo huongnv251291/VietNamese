@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="10%p" android:keyHeight="@integer/key_normal_height" android:horizontalGap="0px" android:verticalGap="0px">
-    <Row>
+    <Row android:rowEdgeFlags="top">
         <Key android:codes="113" android:keyEdgeFlags="left" android:keyLabel="q"/>
         <Key android:codes="119" android:keyLabel="w"/>
         <Key android:codes="101" android:popupCharacters="ēèéêëę€" android:keyLabel="e"/>
