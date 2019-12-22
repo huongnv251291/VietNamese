@@ -1,4 +1,4 @@
-package com.tohsoft.languagepack.dutch;
+package com.tohsoft.languagepack.danish;
 
 
 import com.tohsoft.addon.PackBroadcastReceiverBase;
