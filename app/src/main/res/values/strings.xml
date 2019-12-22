@@ -1,6 +1,6 @@
 <resources>
-   <string name="app_name">Беларуская</string>
-   <string name="dictionary_description">Беларуская друкарская</string>
+   <string name="app_name">Basque</string>
+   <string name="dictionary_description">Euskara</string>
    <string-array name="initial_suggestions">
       <item>!</item>
       <item>\?</item>

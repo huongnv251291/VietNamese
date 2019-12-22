@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Dictionaries xmlns:ask="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"/>
+<Dictionaries>
+    <Dictionary
+        autoTextResourceId="@xml/autotext"
+        description="Basque dictionary"
+        dictionaryResourceId="@array/words_dict_array"
+        id="a4d8ac90-cf9c-11e6-9598-0800200c9a66"
+        locale="eu"
+        nameResId="@string/app_name"
+        type="binary_resource" />
+</Dictionaries>

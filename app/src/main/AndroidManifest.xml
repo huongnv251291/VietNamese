@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tohsoft.languagepack.belarusian">
+    package="com.tohsoft.languagepack.basque">
 
     <application
         android:allowBackup="false"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:largeHeap="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.tohsoft.languagepack.belarusian.MainActivity">
+        <activity android:name="com.tohsoft.languagepack.basque.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -18,7 +18,7 @@
             </intent-filter>
         </activity>
         <receiver
-            android:name="com.tohsoft.languagepack.belarusian.PackBroadcastReceiver"
+            android:name="com.tohsoft.languagepack.basque.PackBroadcastReceiver"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.tohsoft.plugin.KEYBOARDS" />
