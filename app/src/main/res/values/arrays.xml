@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="vietnam_words_dict_array">
+        <item>@raw/vietnam_words_1</item>
+    </array>
+</resources>

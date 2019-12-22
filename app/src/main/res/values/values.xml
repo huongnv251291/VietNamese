@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="vietnam_initial_suggestions">
-        <item>!</item>
-        <item>\?</item>
-        <item>,</item>
-        <item>\"</item>
-        <item>\'</item>
-        <item>:</item>
-        <item>(</item>
-        <item>)</item>
-        <item>-</item>
-        <item>/</item>
-        <item>\@</item>
-        <item>_</item>
-    </string-array>
-    <array name="vietnam_words_dict_array">
-        <item>@raw/vietnam_words_1</item>
-    </array>
+  <string-array name="vietnam_initial_suggestions">
+    <item>!</item>
+    <item>\?</item>
+    <item>,</item>
+    <item>\"</item>
+    <item>\'</item>
+    <item>:</item>
+    <item>(</item>
+    <item>)</item>
+    <item>-</item>
+    <item>/</item>
+    <item>\@</item>
+    <item>_</item>
+  </string-array>
 </resources>

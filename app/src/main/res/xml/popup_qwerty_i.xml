@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android">
-    <Row android:rowEdgeFlags="top">
-        <Key android:codes="7883" android:keyEdgeFlags="left"/>
-        <Key android:codes="7871"/>
-        <Key android:codes="297" android:keyEdgeFlags="right"/>
-        <!--<Key android:codes="8364" android:keyEdgeFlags="right"/>-->
-    </Row>
-    <Row >
-        <Key android:codes="237" android:keyEdgeFlags="left"/>
-        <Key android:codes="56"/>
-        <Key android:codes="236" android:keyEdgeFlags="right"/>
-        <!--<Key android:codes="8364" android:keyEdgeFlags="right"/>-->
-    </Row>
+  <Row android:rowEdgeFlags="top">
+    <Key android:codes="7883" android:keyEdgeFlags="left"/>
+    <Key android:codes="7871"/>
+    <Key android:codes="297" android:keyEdgeFlags="right"/>
+    <!--<Key android:codes="8364" android:keyEdgeFlags="right"/>-->
+  </Row>
+  <Row >
+    <Key android:codes="237" android:keyEdgeFlags="left"/>
+    <Key android:codes="56"/>
+    <Key android:codes="236" android:keyEdgeFlags="right"/>
+    <!--<Key android:codes="8364" android:keyEdgeFlags="right"/>-->
+  </Row>
 
 </Keyboard>
