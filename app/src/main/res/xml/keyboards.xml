@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboards>
+   <Keyboard
+       defaultDictionaryLocale="nl"
+       description="@string/keyboard_description_nl"
+       iconResId="@drawable/flag_nl"
+       id="18e2df10-5b67-11e7-9598-0800200c9a66"
+       index="1"
+       layoutResId="@xml/nl_qwerty"
+       nameResId="@string/app_name" />
+   <Keyboard
+       defaultDictionaryLocale="nl"
+       description="@string/keyboard_description_be"
+       iconResId="@drawable/flag_be"
+       id="c844c6f0-7073-11e7-9598-0800200c9a66"
+       index="1"
+       layoutResId="@xml/be_azerty"
+       nameResId="@string/app_name" />
+</Keyboards>

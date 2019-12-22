@@ -1,39 +1,34 @@
-package com.tohsoft.languagepack.vietnamese;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.tohsoft.languagepack.dutch;
 
 import android.os.Bundle;
 import android.util.Log;
 
-
+import androidx.appcompat.app.AppCompatActivity;
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "MainActivity";
+  private static final String TAG = "MainActivity";
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_main);
+  }
+  public static String convertStreamToString(InputStream is) throws Exception {
+    BufferedReader reader = new BufferedReader(new InputStreamReader(is));
+    StringBuilder sb = new StringBuilder();
+    String line = null;
+    while ((line = reader.readLine()) != null) {
+      sb.append(line).append("\n");
+      Log.e("convertStreamToString",sb.toString());
     }
-    public static String convertStreamToString(InputStream is) throws Exception {
-        BufferedReader reader = new BufferedReader(new InputStreamReader(is));
-        StringBuilder sb = new StringBuilder();
-        String line = null;
-        while ((line = reader.readLine()) != null) {
-            sb.append(line).append("\n");
-            Log.e("convertStreamToString",sb.toString());
-        }
-        reader.close();
-        return sb.toString();
-    }
+    reader.close();
+    return sb.toString();
+  }
 //    private void loadDictionaryFromResource(int[] resId) {
 //        final InputStream[] is = new InputStream[resId.length];
 //        try {

@@ -1,4 +1,5 @@
-package com.tohsoft.languagepack.vietnamese;
+package com.tohsoft.languagepack.dutch;
+
 
 import com.tohsoft.addon.PackBroadcastReceiverBase;
 

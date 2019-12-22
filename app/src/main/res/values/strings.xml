@@ -1,6 +1,19 @@
 <resources>
-   <string name="app_name">VietNamese</string>
-   <string name="vietnam_dict">Tiếng Việt</string>
-
+   <string name="app_name">Dutch Language</string>
+   <string name="dictionary_description">Dutch Language</string>
+   <string-array name="initial_suggestions">
+      <item>!</item>
+      <item>\?</item>
+      <item>,</item>
+      <item>\"</item>
+      <item>\'</item>
+      <item>:</item>
+      <item>(</item>
+      <item>)</item>
+      <item>-</item>
+      <item>/</item>
+      <item>\@</item>
+      <item>_</item>
+   </string-array>
 </resources>
 
