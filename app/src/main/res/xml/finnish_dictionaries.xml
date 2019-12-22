@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+   <Dictionary
+       autoTextResourceId="@xml/finnish_autotext"
+       description="@string/dictionary_description"
+       dictionaryResourceId="@array/finnish_words_dict_array"
+       id="aa85d1dd-f23b-4fc1-a30c-9a0480866122"
+       locale="fi"
+       nameResId="@string/app_name"
+       type="binary_resource" />
+</Dictionaries>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <array name="words_dict_array">
-      <item>@raw/words_1</item>
-      <item>@raw/words_2</item>
+   <array name="finnish_words_dict_array">
+      <item>@raw/finnish_words_1</item>
+      <item>@raw/finnish_words_2</item>
+      <item>@raw/finnish_words_3</item>
    </array>
 </resources>

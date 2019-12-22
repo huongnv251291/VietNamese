@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboards>
+   <Keyboard
+       defaultDictionaryLocale="fi"
+       description="@string/dictionary_description"
+       iconResId="@drawable/ic_launcher_background"
+       id="bbc4e54e-1c2a-44d4-9df4-98309c9116de"
+       index="1"
+       layoutResId="@xml/finnish_qwerty"
+       nameResId="@string/app_name" />
+<!--   <Keyboard-->
+<!--       defaultDictionaryLocale="fi"-->
+<!--       description="@string/dictionary_description"-->
+<!--       iconResId="@drawable/ic_launcher_background"-->
+<!--       id="f33d99d0-28ab-11e9-b56e-0800200c9a66"-->
+<!--       index="2"-->
+<!--       layoutResId="@xml/finnish_qwerty_simple"-->
+<!--       nameResId="@string/app_name" />-->
+<!--   <Keyboard-->
+<!--       defaultDictionaryLocale="fi"-->
+<!--       description="@string/dictionary_description"-->
+<!--       iconResId="@drawable/ic_launcher_background"-->
+<!--       id="5f5b5340-1c9b-11e9-b56e-0800200c9a66"-->
+<!--       index="3"-->
+<!--       layoutResId="@xml/finnish_qwerty_numbers"-->
+<!--       nameResId="@string/app_name" />-->
+<!--   <Keyboard-->
+<!--       defaultDictionaryLocale="fi"-->
+<!--       description="@string/dictionary_description"-->
+<!--       iconResId="@drawable/ic_launcher_background"-->
+<!--       id="cd54e1a0-1dbc-11e9-b56e-0800200c9a66"-->
+<!--       index="4"-->
+<!--       layoutResId="@xml/finnish_qwerty_numbers_symbols"-->
+<!--       nameResId="@string/app_name" />-->
+<!--   <Keyboard-->
+<!--       defaultDictionaryLocale="fi"-->
+<!--       description="@string/dictionary_description"-->
+<!--       iconResId="@drawable/ic_launcher_background"-->
+<!--       id="3aeda640-1e79-11e9-b56e-0800200c9a66"-->
+<!--       index="5"-->
+<!--       layoutResId="@xml/finnish_qwerty_symbols_top_row_numbers"-->
+<!--       nameResId="@string/app_name" />-->
+</Keyboards>

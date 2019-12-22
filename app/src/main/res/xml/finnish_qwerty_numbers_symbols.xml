@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ask="http://schemas.android.com/apk/res-auto" android:keyWidth="10%p">
+    <Row android:keyWidth="9.09%p">
+        <Key android:codes="113" android:popupCharacters="1§½" android:keyEdgeFlags="left" android:keyLabel="q" ask:hintLabel="1"/>
+        <Key android:codes="119" android:popupCharacters="2" android:keyLabel="w"/>
+        <Key android:codes="101" android:popupCharacters="3éë€" android:keyLabel="e" ask:hintLabel="3"/>
+        <Key android:codes="114" android:popupCharacters="4" android:keyLabel="r"/>
+        <Key android:codes="116" android:popupCharacters="5" android:keyLabel="t"/>
+        <Key android:codes="121" android:popupCharacters="6" android:keyLabel="y"/>
+        <Key android:codes="117" android:popupCharacters="7ü" android:keyLabel="u" ask:hintLabel="7"/>
+        <Key android:codes="105" android:popupCharacters="8" android:keyLabel="i"/>
+        <Key android:codes="111" android:popupCharacters="9" android:keyLabel="o"/>
+        <Key android:codes="112" android:popupCharacters="0" android:keyLabel="p"/>
+        <Key android:codes="229" android:popupCharacters="+?\\" android:keyEdgeFlags="right" android:keyLabel="å" ask:hintLabel="+ ? \\"/>
+    </Row>
+    <Row android:keyWidth="9.09%p">
+        <Key android:codes="97" android:popupCharacters="!á" android:keyEdgeFlags="left" android:keyLabel="a" ask:hintLabel="!"/>
+        <Key android:codes="115" android:popupCharacters="&quot;@š" android:keyLabel="s" ask:hintLabel="&quot; @"/>
+        <Key android:codes="100" android:popupCharacters="#£" android:keyLabel="d" ask:hintLabel="# £"/>
+        <Key android:codes="102" android:popupCharacters="¤$" android:keyLabel="f" ask:hintLabel="¤ $"/>
+        <Key android:codes="103" android:popupCharacters="%" android:keyLabel="g"/>
+        <Key android:codes="104" android:popupCharacters="&amp;" android:keyLabel="h"/>
+        <Key android:codes="106" android:popupCharacters="/{" android:keyLabel="j" ask:hintLabel="/ {"/>
+        <Key android:codes="107" android:popupCharacters="([" android:keyLabel="k" ask:hintLabel="( ["/>
+        <Key android:codes="108" android:popupCharacters=")]" android:keyLabel="l" ask:hintLabel=") ]"/>
+        <Key android:codes="246" android:popupCharacters="=}ø" android:keyLabel="ö" ask:hintLabel="= }"/>
+        <Key android:codes="228" android:popupCharacters="&apos;*^~æ" android:keyEdgeFlags="right" android:keyLabel="ä" ask:hintLabel="&apos; * ^"/>
+    </Row>
+    <Row>
+        <Key android:keyWidth="15%p" android:codes="-1" android:keyEdgeFlags="left" android:isModifier="true" android:isSticky="true"/>
+        <Key android:codes="122" android:popupCharacters="&lt;ž" android:keyLabel="z" ask:hintLabel="&lt;"/>
+        <Key android:codes="120" android:popupCharacters="&gt;" android:keyLabel="x"/>
+        <Key android:codes="99" android:popupCharacters="|" android:keyLabel="c"/>
+        <Key android:codes="118" android:popupCharacters=";" android:keyLabel="v"/>
+        <Key android:codes="98" android:popupCharacters=":" android:keyLabel="b"/>
+        <Key android:codes="110" android:popupCharacters="_" android:keyLabel="n"/>
+        <Key android:codes="109" android:popupCharacters="-" android:keyLabel="m"/>
+        <Key android:keyWidth="15%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
+    </Row>
+</Keyboard>

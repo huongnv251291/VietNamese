@@ -1,4 +1,4 @@
-package com.tohsoft.languagepack.basque;
+package com.tohsoft.languagepack.finnish;
 
 
 import com.tohsoft.addon.PackBroadcastReceiverBase;
