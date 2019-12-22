@@ -1,44 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Keyboard xmlns:ask="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="10%p" android:keyHeight="@dimen/key_height" android:horizontalGap="0px" android:verticalGap="0px">
-    <Row android:keyWidth="8.33%p">
+<Keyboard xmlns:ask="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="10%p" android:keyHeight="@integer/key_normal_height" android:horizontalGap="0px" android:verticalGap="0px">
+    <Row >
         <Key android:codes="439" android:keyEdgeFlags="left" android:keyLabel=""/>
         <Key android:codes="446" android:keyLabel=""/>
         <Key android:codes="443" android:keyLabel=""/>
-        <Key android:codes="43a" android:keyLabel=""/>
         <Key android:codes="435" android:keyLabel=""/>
-        <Key android:codes="43d" android:keyLabel=""/>
         <Key android:codes="433" android:popupCharacters="ґ" android:keyLabel=""/>
         <Key android:codes="448" android:keyLabel=""/>
-        <Key android:codes="45e" android:keyLabel=""/>
         <Key android:codes="437" android:keyLabel=""/>
         <Key android:codes="445" android:keyLabel=""/>
-        <Key android:codes="2bc" android:keyEdgeFlags="right" android:keyLabel="&apos;"/>
     </Row>
-    <Row android:keyWidth="8.33%p">
+    <Row >
         <Key android:codes="444" android:keyEdgeFlags="left" android:keyLabel=""/>
-        <Key android:codes="44b" android:keyLabel=""/>
         <Key android:codes="432" android:keyLabel=""/>
         <Key android:codes="430" android:keyLabel=""/>
-        <Key android:codes="43f" android:keyLabel=""/>
         <Key android:codes="440" android:keyLabel=""/>
-        <Key android:codes="43e" android:keyLabel=""/>
-        <Key android:codes="43b" android:keyLabel=""/>
         <Key android:codes="434" android:keyLabel=""/>
         <Key android:codes="436" android:keyLabel=""/>
-        <Key android:codes="44d" android:keyLabel=""/>
         <Key android:codes="451" android:keyEdgeFlags="right" android:keyLabel=""/>
     </Row>
-    <Row android:keyWidth="9.09%p">
+    <Row >
         <Key android:codes="-1" android:keyEdgeFlags="left" android:isModifier="true" android:isSticky="true"/>
-        <Key android:codes="44f" android:keyLabel=""/>
         <Key android:codes="447" android:keyLabel=""/>
         <Key android:codes="441" android:keyLabel=""/>
-        <Key android:codes="43c" android:keyLabel=""/>
         <Key android:codes="456" android:keyLabel=""/>
         <Key android:codes="442" android:keyLabel=""/>
-        <Key android:codes="44c" android:keyLabel=""/>
         <Key android:codes="431" android:keyLabel=""/>
-        <Key android:codes="44e" android:keyLabel=""/>
         <Key android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
     </Row>
 </Keyboard>

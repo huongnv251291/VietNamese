@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Keyboards>
-   <Keyboard
-       defaultDictionaryLocale="be"
-       description="Created by alex73"
-       iconResId="@drawable/ic_launcher_background"
-       id="cf2607f0-f368-11e1-a21f-0800200c9a66"
-       index="1"
-       landscapeResId="@xml/be_cyrillic"
-       layoutResId="@xml/be_cyrillic"
-       nameResId="@string/app_name"
-       physicalKeyboardMappingResId="@xml/cyrillic_physical" />
-   <Keyboard
-       defaultDictionaryLocale="be"
-       description="Created by alex73"
-       iconResId="@drawable/ic_launcher_background"
-       id="cf2607f1-f368-11e1-a21f-0800200c9a66"
-       index="2"
-       landscapeResId="@xml/be_latin"
-       layoutResId="@xml/be_latin"
-       nameResId="@string/app_name"
-       physicalKeyboardMappingResId="@xml/latin_physical" />
+<!--   <Keyboard-->
+<!--       defaultDictionaryLocale="be"-->
+<!--       description="Created by alex73"-->
+<!--       iconResId="@drawable/ic_launcher_background"-->
+<!--       id="cf2607f0-f368-11e1-a21f-0800200c9a66"-->
+<!--       index="1"-->
+<!--       landscapeResId="@xml/be_cyrillic"-->
+<!--       layoutResId="@xml/be_cyrillic"-->
+<!--       nameResId="@string/app_name"-->
+<!--       physicalKeyboardMappingResId="@xml/cyrillic_physical" />-->
+<!--   <Keyboard-->
+<!--       defaultDictionaryLocale="be"-->
+<!--       description="Created by alex73"-->
+<!--       iconResId="@drawable/ic_launcher_background"-->
+<!--       id="cf2607f1-f368-11e1-a21f-0800200c9a66"-->
+<!--       index="2"-->
+<!--       landscapeResId="@xml/be_latin"-->
+<!--       layoutResId="@xml/be_latin"-->
+<!--       nameResId="@string/app_name"-->
+<!--       physicalKeyboardMappingResId="@xml/latin_physical" />-->
    <Keyboard
        defaultDictionaryLocale="be"
        description="Created by eratyk"

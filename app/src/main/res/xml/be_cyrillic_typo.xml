@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Keyboard xmlns:ask="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="10%p" android:keyHeight="@dimen/key_height" android:horizontalGap="0px" android:verticalGap="0px">
-    <Row android:keyWidth="8.29%p">
+<Keyboard xmlns:ask="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="10%p" android:keyHeight="@integer/key_normal_height" android:horizontalGap="0px" android:verticalGap="0px">
+    <Row >
         <Key android:codes="й" android:popupCharacters="1¹ĭj" android:keyEdgeFlags="left"/>
         <Key android:codes="ц" android:popupCharacters="2²½"/>
         <Key android:codes="у" android:popupCharacters="3³⅓⅔¥^"/>
@@ -14,7 +14,7 @@
         <Key android:codes="х" android:popupCharacters="×·"/>
         <Key android:codes="’" android:popupCharacters="ъ&apos;" android:keyEdgeFlags="right"/>
     </Row>
-    <Row android:keyWidth="8.29%p">
+    <Row >
         <Key android:codes="ф" android:popupCharacters="" android:keyEdgeFlags="left"/>
         <Key android:codes="ы" android:popupCharacters=""/>
         <Key android:codes="в" android:popupCharacters=""/>
@@ -28,7 +28,7 @@
         <Key android:codes="э" android:popupCharacters=""/>
         <Key android:codes="ё" android:popupCharacters="" android:keyEdgeFlags="right"/>
     </Row>
-    <Row android:keyWidth="9.09%p">
+    <Row >
         <Key android:codes="-1" android:keyEdgeFlags="left" android:isModifier="true" android:isSticky="true"/>
         <Key android:codes="я" android:popupCharacters=""/>
         <Key android:codes="ч" android:popupCharacters=""/>
