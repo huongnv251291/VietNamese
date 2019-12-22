@@ -1,4 +1,4 @@
-package com.tohsoft.languagepack.brazilian;
+package com.tohsoft.languagepack.belarusian;
 
 
 import com.tohsoft.addon.PackBroadcastReceiverBase;
