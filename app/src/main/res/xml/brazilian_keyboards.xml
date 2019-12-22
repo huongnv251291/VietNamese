@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboards>
+   <Keyboard
+       defaultDictionaryLocale="pt-BR"
+       description="Teclado QWERTY com Ç"
+       iconResId="@drawable/ic_launcher_background"
+       id="4c99178a-9a80-4218-8b13-f05f474c7f5e"
+       index="111"
+       layoutResId="@xml/brazilian_qwerty_c"
+       nameResId="@string/app_name" />
+   <Keyboard
+       defaultDictionaryLocale="pt-BR"
+       description="Teclado QWERTY com símbolos"
+       iconResId="@drawable/ic_launcher_background"
+       id="848ac210-4d87-11e8-b566-0800200c9a66"
+       index="112"
+       layoutResId="@xml/brazilian_qwerty_with_symbols"
+       nameResId="@string/app_name" />
+   <Keyboard
+       defaultDictionaryLocale="pt-BR"
+       description="Teclado QWERTY"
+       iconResId="@drawable/ic_launcher_background"
+       id="24664bb0-1051-11e9-b56e-0800200c9a66"
+       index="113"
+       layoutResId="@xml/brazilian_qwerty"
+       nameResId="@string/app_name" />
+</Keyboards>

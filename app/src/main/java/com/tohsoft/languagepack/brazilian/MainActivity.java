@@ -1,4 +1,4 @@
-package com.tohsoft.languagepack.catalan;
+package com.tohsoft.languagepack.brazilian;
 
 import android.os.Bundle;
 import android.util.Log;

@@ -1,4 +1,4 @@
-package com.tohsoft.languagepack.catalan;
+package com.tohsoft.languagepack.brazilian;
 
 
 import com.tohsoft.addon.PackBroadcastReceiverBase;
