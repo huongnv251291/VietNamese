@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Keyboards>
    <Keyboard
-       defaultDictionaryLocale="da"
+       defaultDictionaryLocale="ca"
        defaultEnabled="true"
-       description="@string/dictionary_description"
+       description="@string/app_name"
        iconResId="@drawable/ic_launcher_background"
-       id="c099971f-a603-4358-b888-0928ec918b87"
+       id="9f7f5bcb-a015-4387-b63e-1eff62be4e06"
        index="1"
        layoutResId="@xml/qwerty"
        nameResId="@string/app_name"
-       physicalKeyboardMappingResId="@xml/danish_physical" />
+       physicalKeyboardMappingResId="@xml/english_physical" />
 </Keyboards>

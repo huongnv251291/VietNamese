@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tohsoft.languagepack.danish">
+    package="com.tohsoft.languagepack.catalan">
 
     <application
         android:allowBackup="false"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:largeHeap="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.tohsoft.languagepack.danish.MainActivity">
+        <activity android:name="com.tohsoft.languagepack.catalan.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -18,7 +18,7 @@
             </intent-filter>
         </activity>
         <receiver
-            android:name="com.tohsoft.languagepack.danish.PackBroadcastReceiver"
+            android:name="com.tohsoft.languagepack.catalan.PackBroadcastReceiver"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.tohsoft.plugin.KEYBOARDS" />
@@ -37,10 +37,10 @@
 
             <meta-data
                 android:name="com.tohsoft.plugindata.keyboards"
-                android:resource="@xml/danish_keyboards" />
+                android:resource="@xml/catalan_keyboards" />
             <meta-data
                 android:name="com.tohsoft.plugindata.dictionaries"
-                android:resource="@xml/danish_dictionaries" />
+                android:resource="@xml/catalan_dictionaries" />
         </receiver>
     </application>
 

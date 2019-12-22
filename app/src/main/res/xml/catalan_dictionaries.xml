@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+   <Dictionary
+       description="@string/dictionary_description"
+       dictionaryResourceId="@array/catalan_words_dict_array"
+       id="50d94af0-615d-4f91-a0af-41f1fac9624b"
+       locale="ca"
+       nameResId="@string/app_name"
+       type="binary_resource" />
+</Dictionaries>
